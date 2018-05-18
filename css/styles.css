@@ -106,3 +106,10 @@ input{
   border: 3px solid #6A1B9A;
   padding: 1.5rem;
 }
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+  border: 1px solid rgba(100,100,100,.5);
+  padding: 2rem;
+}
